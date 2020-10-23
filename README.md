@@ -3,6 +3,12 @@
 ### Recitation 1
 
 1. Numpy Tutorial
-2. Convolution Basics
-3. Smooth Normalization
+2. Histogram Equalization
+3. Convolution Basics
 4. Fourier Transform
+
+### Recitation 2
+0. Recap efficient convolutions
+1. Deblur Fourier
+2. Deblur Conjugate Gradient
+3. Surface Normals
