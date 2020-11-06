@@ -12,3 +12,7 @@
 1. Deblur Fourier
 2. Deblur Conjugate Gradient
 3. Surface Normals
+
+### Recitation 3
+1. Rotation
+2. Homography
