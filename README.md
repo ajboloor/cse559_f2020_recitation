@@ -16,3 +16,12 @@
 ### Recitation 3
 1. Rotation
 2. Homography
+
+### Recitation 4
+1. Broadcasting and Boolean Indexing
+2. Bilteratal Filtering
+
+### Recitation 5
+1. EDF Basics
+2. Average Pooling with EDF
+3. Strided Average Pooling with EDF
